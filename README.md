@@ -4,7 +4,7 @@ Push The Button is a horror game with a single button.
 Schematic:
 
 ```text
-/*
+
        ┌──────────────┐                 ██▓███   █    ██   ██████  ██░ ██
        │              │                ▓██░  ██▒ ██  ▓██▒▒██    ▒ ▓██░ ██▒
        │              │                ▓██░ ██▓▒▓██  ▒██░░ ▓██▄   ▒██▀▀██░
@@ -40,9 +40,9 @@ Schematic:
 │      │                 │       │                       BY TREVOR M TOMESH
 └─────---────o     o─────┘       │    - 1 arduino micro
        │                         │    - 1 pushbutton
-       │   pushbu-ton            │    - 1 speaker/buzzer
+       │   pushbutton            │    - 1 speaker/buzzer
        │                         │    - 1 resistor (any value)
        └─────────────────────────┘
- */
+ 
 ```
 
