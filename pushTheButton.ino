@@ -31,6 +31,7 @@
       ░
       
              A SINGLE BUTTON HORROR GAME
+                FOR ARDUINO MICRO
                BY TREVOR M. TOMESH
                   version 1.0
 
